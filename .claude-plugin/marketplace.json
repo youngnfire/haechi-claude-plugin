@@ -1,0 +1,14 @@
+{
+  "name": "haechi-plugins",
+  "owner": {
+    "name": "youngnfire"
+  },
+  "description": "해치(Haechi)와 함께 쓰는 Claude Code 플러그인 모음. / Claude Code plugins for working with Haechi.",
+  "plugins": [
+    {
+      "name": "haechi-handoff",
+      "source": "./",
+      "description": "지금 작업 맥락을 인계 문서로 남겨 해치가 이어 받게 합니다. / Writes a handoff note so Haechi can pick up your current work."
+    }
+  ]
+}

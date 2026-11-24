@@ -1,0 +1,10 @@
+{
+  "name": "haechi-handoff",
+  "version": "0.1.0",
+  "description": "지금 작업 맥락을 인계 문서로 남겨 해치가 이어 받게 합니다. / Writes a handoff note so Haechi can pick up your current work.",
+  "author": {
+    "name": "youngnfire"
+  },
+  "license": "MIT",
+  "keywords": ["haechi", "handoff", "인계"]
+}
